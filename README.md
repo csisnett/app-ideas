@@ -17,6 +17,8 @@ These applications are:
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
+Want to join a community of people building apps? Be part of the [Pelable Community](https://pelable.com)
+
 Each project has the following **features**:
 
 1. A clear and descriptive objective;
@@ -145,11 +147,4 @@ If the information from this repo was useful to you in any way, make sure you gi
 
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
 
-### Main Contributors 🙂🙂
-
--   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [website](https://florin-pop.com).
--   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
-
-## Weekly Coding Challenge 🚀
-
-As a bonus, there's a Weekly Coding Challenge where you can learn more by practicing your skills on real-world projects. Read [The Complete Guide](https://www.florin-pop.com/blog/2019/03/weekly-coding-challenge/) to find out how you can participate! 😄
+[Pelable.com](https://pelable.com)
